@@ -1,5 +1,3 @@
-# Sokoban Environment - NYU CS-GY6613 - Fall 2020
----
 ## Prerequisites
 Requires python3 to run
 ##### Install libraries
@@ -24,8 +22,6 @@ Requires python3 to run
 `--iterations [#]` - how many iterations to allow the agent to search for (default=3000)
 
 ## Code Functions 
-_These are the only functions you need to concern yourselves with to complete the assignments._
-**WARNING: DO NOT MODIFY THESE FUNCTIONS!**
 
 #### Sokoban_py
 * **state.clone()** - creates a full copy of the current state (for use in initializing Nodes or for feedforward simulation of states without modifying the original) **Use with HillClimber to test sequences**
